@@ -178,7 +178,7 @@ header{
 
 .feature-section{
     padding: 80px var(--padding-inline-section) 0;
-    background-image: url(asset\ 34.svg);
+    background-image: url(./asset\ 34.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -249,7 +249,7 @@ header{
     width: 23%;
     position: relative;
     height: 300px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url(asset\ 37.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url(./asset\ 37.jpeg);
     background-size: cover;
     transition: 0.2s ease-out;
 }
@@ -259,17 +259,17 @@ header{
 }
 
 .examples-card:nth-child(2){
-    background: linear-gradient(#0000001a, #000000cc), url(asset\ 36.jpeg);
+    background: linear-gradient(#0000001a, #000000cc), url(./asset\ 36.jpeg);
     background-size: cover;
 }
 
 .examples-card:nth-child(3){
-    background: linear-gradient(#0000001a, #000000cc), url(asset\ 38.jpeg);
+    background: linear-gradient(#0000001a, #000000cc), url(./asset\ 38.jpeg);
     background-size: cover;
 }
 
 .examples-card:nth-child(4){
-    background: linear-gradient(#0000001a, #000000cc), url(asset\ 39.jpeg);
+    background: linear-gradient(#0000001a, #000000cc), url(./asset\ 39.jpeg);
     background-size: cover;
 }
 
