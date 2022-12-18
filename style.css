@@ -58,7 +58,7 @@ ul{
 }
 
 .top-banner{
-    background-image: url('asset\ 32.png');
+    background-image: url('./asset\ 32.png');
     background-color: #4fb3d4;
     background-size: 300px;
 }
